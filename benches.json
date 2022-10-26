@@ -2527,7 +2527,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": 3,
                 "STATUS": 0,
                 "ZUSTAND": 2,
@@ -3717,7 +3717,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": 3,
                 "STATUS": 0,
                 "ZUSTAND": 2,
@@ -3734,7 +3734,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": 3,
                 "STATUS": 0,
                 "ZUSTAND": 2,
@@ -3751,7 +3751,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": 3,
                 "STATUS": 0,
                 "ZUSTAND": 2,
@@ -9565,7 +9565,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -14036,7 +14036,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -23709,7 +23709,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -23726,7 +23726,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -23913,7 +23913,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -23930,7 +23930,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -25069,7 +25069,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": 3,
                 "STATUS": 0,
                 "ZUSTAND": null,
@@ -25086,7 +25086,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": 3,
                 "STATUS": 0,
                 "ZUSTAND": null,
@@ -25103,7 +25103,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": 3,
                 "STATUS": 0,
                 "ZUSTAND": null,
@@ -25817,7 +25817,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -26871,7 +26871,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -27279,7 +27279,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -27296,7 +27296,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
@@ -27313,7 +27313,7 @@
         {
             "type": "Feature",
             "properties": {
-                "FARBE": null,
+                "FARBE": 5,
                 "TYP": null,
                 "STATUS": null,
                 "ZUSTAND": null,
