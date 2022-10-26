@@ -19,14 +19,6 @@ function preload() {
 
 function setup() {
   createCanvas(800, 800);
-
-  console.log(benches);
-
-
-  console.log(colScale(0));
-  console.log(colScale(1));
-  console.log(colScale(2));
-  console.log(colScale(4));
  
   noLoop();
 }
